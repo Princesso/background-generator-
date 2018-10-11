@@ -10,6 +10,7 @@ function changeBackground() {
   +"," 
   +secondColor.value
   +")";
+  h3value.textContent=bodyBackground.style.background+"";
 }
 // firstColor.addEventListener("input",changeBackground)
 // secondColor.addEventListener("input",changeBackground)
