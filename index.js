@@ -11,5 +11,5 @@ function changeBackground() {
   +secondColor.value
   +")";
 }
-firstColor.addEventListener("input",changeBackground)
-secondColor.addEventListener("input",changeBackground)
+// firstColor.addEventListener("input",changeBackground)
+// secondColor.addEventListener("input",changeBackground)
